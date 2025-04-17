@@ -1,2 +1,4 @@
 # laxerhd.github.io
-laxerhd's github page
+This page is run by github pages.
+
+If you want to do the same, here is a short [tutorial](https://pages.github.com).
